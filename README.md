@@ -1,2 +1,3 @@
 # awesome_parallax_test
 simple parallax creation containing some images and some random text ...
+The website is live at https://saurabh9495.github.io/Awesome_Parallax/
